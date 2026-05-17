@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movieArchive>
+    <movies>
+        <movie>
+            <id>3</id>
+            <title>MCU Breakout Star, 36, Hailed Christopher Nolan’s $758 Million Oscar-Winner as One of This Century’s Best Films</title>
+            <genre>
+                <id>4</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Christopher Nolan's $758 million Oscar-winner is hailed as one of this century's best by MCU breakout star.</description>
+            <director>
+                <id>6</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/interstellar-best-movie-21st-century-simu-liu/</link>
+            <picturepath>assets\74fe7a8e-bfa5-40c5-aaf0-f68d1a900aad.JPG</picturepath>
+        </movie>
+        <movie>
+            <id>4</id>
+            <title>John Cena and Idris Elba’s High-Octane Comedy Divides Critics on Rotten Tomatoes</title>
+            <genre>
+                <id>5</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Idris Elba and John Cena's new buddy comedy has gone rogue with critics as they split the score down the middle.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/heads-of-state-rotten-tomatoes-score-is-it-good/</link>
+            <picturepath>assets\5b27fdd3-7c49-4bd6-9692-5082b87ae0e0.JPG</picturepath>
+        </movie>
+        <movie>
+            <id>5</id>
+            <title>‘The Chosen’ Delivers Its Most Haunting Scene Yet: “It’s Not Something I Would Ever Want To Shoot Again"</title>
+            <genre>
+                <id>5</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>The Chosen Season 6 delivers one of its most haunting scenes, and its star says he wouldn't want to shoot it again.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/the-chosen-season-6-jonathan-roumie-crucifixion/</link>
+            <picturepath>assets\9cbd9171-d86a-4036-877e-e14a5c36f530.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>8</id>
+            <title>'Yellowstone' Star, 41, Admits to One of the Hardest Parts of Being in Taylor Sheridan's Epic Series</title>
+            <genre>
+                <id>4</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Yellowstone star admits to one of the hardest parts of being in Taylor Sheridan's epic series.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/yellowstone-luke-grimes-saying-goodbye-hard/</link>
+            <picturepath>assets\f05045c5-ff6c-4633-9f40-fbcc441b08df.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>9</id>
+            <title>'Bosch' Spin-Off Creator Clarifies Titus Welliver's Role After 'Legacy' Cancellation</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Bosch spin-off creator Michael Connelly clarifies Titus Welliver's role in Ballard after Legacy's cancellation.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/bosch-ballard-titus-welliver-role-not-a-cameo-michael-connelly/</link>
+            <picturepath>assets\37af88e1-79dd-40b6-ae84-fda409071956.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>10</id>
+            <title>Tom Cruise Takes Down His Steven Spielberg Sci-Fi Epic At the International Box Office With ‘Mission: Impossible - The Final Reckoning’</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Tom Cruise takes down his own alien invasion movie with Mission: Impossible — The Final Reckoning at the international box office.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/mission-impossible-the-final-reckoning-overtakes-war-of-the-worlds-international-box-office-376-million/</link>
+            <picturepath>assets\b32410b1-962a-4892-81a9-ca1936165700.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>12</id>
+            <title>'How to Train Your Dragon' Overtakes the Domestic Box Office of One of the Best War Movies Ever</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>How to Train Your Dragon overtakes the domestic box office of one of the best war movies ever.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/how-to-train-your-dragon-overtakes-pearl-harbor-domestic-box-office-200-million/</link>
+            <picturepath>assets\642c1efa-e19e-42f5-8003-b3c0a49c378b.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>13</id>
+            <title>MCU Breakout Star, 36, Hailed Christopher Nolan’s $758 Million Oscar-Winner as One of This Century’s Best Films</title>
+            <genre>
+                <id>4</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Christopher Nolan's $758 million Oscar-winner is hailed as one of this century's best by MCU breakout star.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/interstellar-best-movie-21st-century-simu-liu/</link>
+            <picturepath>assets\a9d3ac59-e7f7-4607-a0fd-b3d3dabb2894.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>14</id>
+            <title>John Cena and Idris Elba’s High-Octane Comedy Divides Critics on Rotten Tomatoes</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Idris Elba and John Cena's new buddy comedy has gone rogue with critics as they split the score down the middle.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/heads-of-state-rotten-tomatoes-score-is-it-good/</link>
+            <picturepath>assets\1160073a-61d3-4307-b8aa-1e36c56baebe.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>15</id>
+            <title>‘The Chosen’ Delivers Its Most Haunting Scene Yet: “It’s Not Something I Would Ever Want To Shoot Again"</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>The Chosen Season 6 delivers one of its most haunting scenes, and its star says he wouldn't want to shoot it again.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/the-chosen-season-6-jonathan-roumie-crucifixion/</link>
+            <picturepath>assets\4a843fc7-6b3d-4ca5-8a4a-e9de8bac0380.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>16</id>
+            <title>‘Superman’ Star, 34, Reveals the Secret Behind Lois Lane’s "Punk Rock" Backstory [Exclusive]</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Superman's Rachel Brosnahan reveals new details about the backstory she and James Gunn have cooked up for Lois Lane. Read on for more.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/superman-rachel-brosnahan-lois-lane-backstory/</link>
+            <picturepath>assets\1f60d251-b7c9-4fd6-905f-2a9d22e074c3.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>17</id>
+            <title>The Mitfords Look for a Reason to Smile in 'Outrageous' Episode 4 Sneak Peek Clip [Exclusive]</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>A sneak peek from Outrageous episode 4 sees The Mitfords discuss politics whilst a photographer tries to take a pleasant picture.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/outrageous-episode-4-sneak-peek-exclusive/</link>
+            <picturepath>assets\ff737a95-46d1-4c45-a355-7a5b7803457e.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>18</id>
+            <title>'Yellowstone' Star, 41, Admits to One of the Hardest Parts of Being in Taylor Sheridan's Epic Series</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Yellowstone star admits to one of the hardest parts of being in Taylor Sheridan's epic series.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/yellowstone-luke-grimes-saying-goodbye-hard/</link>
+            <picturepath>assets\7b76c706-a52d-4a6d-b02b-14e290df0d41.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>19</id>
+            <title>'Bosch' Spin-Off Creator Clarifies Titus Welliver's Role After 'Legacy' Cancellation</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Bosch spin-off creator Michael Connelly clarifies Titus Welliver's role in Ballard after Legacy's cancellation.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/bosch-ballard-titus-welliver-role-not-a-cameo-michael-connelly/</link>
+            <picturepath>assets\98332220-9c5c-4bc9-b459-88355cc47d90.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>20</id>
+            <title>Tom Cruise Takes Down His Steven Spielberg Sci-Fi Epic At the International Box Office With ‘Mission: Impossible - The Final Reckoning’</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Tom Cruise takes down his own alien invasion movie with Mission: Impossible — The Final Reckoning at the international box office.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/mission-impossible-the-final-reckoning-overtakes-war-of-the-worlds-international-box-office-376-million/</link>
+            <picturepath>assets\ebad5a71-3f2d-43a8-8217-d054c6509ef3.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>21</id>
+            <title>It Looks Like the ‘Fast and Furious’ Franchise Has Lost Its Way</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Vin Diesel's announcements for Fast X: Part 2 might have had fans scratching their heads, and wondering if the franchise will crash and burn.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/fast-and-furious-has-lost-its-way/</link>
+            <picturepath>assets\af450eae-1b2f-4a09-accd-c2ffd3936814.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>22</id>
+            <title>'How to Train Your Dragon' Overtakes the Domestic Box Office of One of the Best War Movies Ever</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>How to Train Your Dragon overtakes the domestic box office of one of the best war movies ever.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/how-to-train-your-dragon-overtakes-pearl-harbor-domestic-box-office-200-million/</link>
+            <picturepath>assets\cf146729-26bd-481e-ac29-818fcd40fc8b.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>23</id>
+            <title>MCU Breakout Star, 36, Hailed Christopher Nolan’s $758 Million Oscar-Winner as One of This Century’s Best Films</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Christopher Nolan's $758 million Oscar-winner is hailed as one of this century's best by MCU breakout star.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/interstellar-best-movie-21st-century-simu-liu/</link>
+            <picturepath>assets\0001efef-910a-46b3-b5e7-25f7498b64b3.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>24</id>
+            <title>John Cena and Idris Elba’s High-Octane Comedy Divides Critics on Rotten Tomatoes</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Idris Elba and John Cena's new buddy comedy has gone rogue with critics as they split the score down the middle.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/heads-of-state-rotten-tomatoes-score-is-it-good/</link>
+            <picturepath>assets\de691d03-e047-44f1-9b23-13ec27d4a354.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>25</id>
+            <title>‘The Chosen’ Delivers Its Most Haunting Scene Yet: “It’s Not Something I Would Ever Want To Shoot Again"</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>The Chosen Season 6 delivers one of its most haunting scenes, and its star says he wouldn't want to shoot it again.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/the-chosen-season-6-jonathan-roumie-crucifixion/</link>
+            <picturepath>assets\9bc0ad94-b222-48fa-8036-413b851071cb.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>26</id>
+            <title>‘Superman’ Star, 34, Reveals the Secret Behind Lois Lane’s "Punk Rock" Backstory [Exclusive]</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Superman's Rachel Brosnahan reveals new details about the backstory she and James Gunn have cooked up for Lois Lane. Read on for more.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/superman-rachel-brosnahan-lois-lane-backstory/</link>
+            <picturepath>assets\81f8d01a-801a-4587-bc65-02a2e697cb4c.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>27</id>
+            <title>The Mitfords Look for a Reason to Smile in 'Outrageous' Episode 4 Sneak Peek Clip [Exclusive]</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>A sneak peek from Outrageous episode 4 sees The Mitfords discuss politics whilst a photographer tries to take a pleasant picture.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/outrageous-episode-4-sneak-peek-exclusive/</link>
+            <picturepath>assets\90cd88f4-7850-4020-9360-c49196e29216.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>28</id>
+            <title>'Yellowstone' Star, 41, Admits to One of the Hardest Parts of Being in Taylor Sheridan's Epic Series</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Yellowstone star admits to one of the hardest parts of being in Taylor Sheridan's epic series.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/yellowstone-luke-grimes-saying-goodbye-hard/</link>
+            <picturepath>assets\ee68fac3-24e5-4908-a264-80c655d4a4a0.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>29</id>
+            <title>'Bosch' Spin-Off Creator Clarifies Titus Welliver's Role After 'Legacy' Cancellation</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Bosch spin-off creator Michael Connelly clarifies Titus Welliver's role in Ballard after Legacy's cancellation.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/bosch-ballard-titus-welliver-role-not-a-cameo-michael-connelly/</link>
+            <picturepath>assets\3c4e01e9-f794-4b11-9fc8-975633a8b688.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>30</id>
+            <title>Tom Cruise Takes Down His Steven Spielberg Sci-Fi Epic At the International Box Office With ‘Mission: Impossible - The Final Reckoning’</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Tom Cruise takes down his own alien invasion movie with Mission: Impossible — The Final Reckoning at the international box office.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/mission-impossible-the-final-reckoning-overtakes-war-of-the-worlds-international-box-office-376-million/</link>
+            <picturepath>assets\552618fa-073c-4bc5-8c67-0b27fa9933b8.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>31</id>
+            <title>It Looks Like the ‘Fast and Furious’ Franchise Has Lost Its Way</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Vin Diesel's announcements for Fast X: Part 2 might have had fans scratching their heads, and wondering if the franchise will crash and burn.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/fast-and-furious-has-lost-its-way/</link>
+            <picturepath>assets\d7d9450e-9ca2-4ca9-977c-5cbafd325df2.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>32</id>
+            <title>'How to Train Your Dragon' Overtakes the Domestic Box Office of One of the Best War Movies Ever</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>How to Train Your Dragon overtakes the domestic box office of one of the best war movies ever.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/how-to-train-your-dragon-overtakes-pearl-harbor-domestic-box-office-200-million/</link>
+            <picturepath>assets\1e86555c-30f6-43b9-9192-3e16ae4d4a22.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>33</id>
+            <title>MCU Breakout Star, 36, Hailed Christopher Nolan’s $758 Million Oscar-Winner as One of This Century’s Best Films</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Christopher Nolan's $758 million Oscar-winner is hailed as one of this century's best by MCU breakout star.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/interstellar-best-movie-21st-century-simu-liu/</link>
+            <picturepath>assets\e236a55f-5e09-493d-8375-aee50b7e0a16.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>34</id>
+            <title>John Cena and Idris Elba’s High-Octane Comedy Divides Critics on Rotten Tomatoes</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Idris Elba and John Cena's new buddy comedy has gone rogue with critics as they split the score down the middle.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/heads-of-state-rotten-tomatoes-score-is-it-good/</link>
+            <picturepath>assets\c5dc9a28-4e78-4637-bf02-7793b3fa57d0.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>35</id>
+            <title>‘The Chosen’ Delivers Its Most Haunting Scene Yet: “It’s Not Something I Would Ever Want To Shoot Again"</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>The Chosen Season 6 delivers one of its most haunting scenes, and its star says he wouldn't want to shoot it again.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/the-chosen-season-6-jonathan-roumie-crucifixion/</link>
+            <picturepath>assets\658bb21c-dbbe-4e24-803b-0d0efa0eb807.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>36</id>
+            <title>‘Superman’ Star, 34, Reveals the Secret Behind Lois Lane’s "Punk Rock" Backstory [Exclusive]</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Superman's Rachel Brosnahan reveals new details about the backstory she and James Gunn have cooked up for Lois Lane. Read on for more.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/superman-rachel-brosnahan-lois-lane-backstory/</link>
+            <picturepath>assets\f61add6d-7abc-44c3-9380-f103d0e48b66.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>37</id>
+            <title>The Mitfords Look for a Reason to Smile in 'Outrageous' Episode 4 Sneak Peek Clip [Exclusive]</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>A sneak peek from Outrageous episode 4 sees The Mitfords discuss politics whilst a photographer tries to take a pleasant picture.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/outrageous-episode-4-sneak-peek-exclusive/</link>
+            <picturepath>assets\0c84f81e-a58d-46a4-b54b-4dbfb380688c.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>38</id>
+            <title>'Yellowstone' Star, 41, Admits to One of the Hardest Parts of Being in Taylor Sheridan's Epic Series</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Yellowstone star admits to one of the hardest parts of being in Taylor Sheridan's epic series.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/yellowstone-luke-grimes-saying-goodbye-hard/</link>
+            <picturepath>assets\7642750d-2168-474a-969e-5b4cb97dfe2c.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>39</id>
+            <title>'Bosch' Spin-Off Creator Clarifies Titus Welliver's Role After 'Legacy' Cancellation</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Bosch spin-off creator Michael Connelly clarifies Titus Welliver's role in Ballard after Legacy's cancellation.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/bosch-ballard-titus-welliver-role-not-a-cameo-michael-connelly/</link>
+            <picturepath>assets\37392c8f-2a45-4f54-acc0-27e19176f8ee.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>40</id>
+            <title>Tom Cruise Takes Down His Steven Spielberg Sci-Fi Epic At the International Box Office With ‘Mission: Impossible - The Final Reckoning’</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Tom Cruise takes down his own alien invasion movie with Mission: Impossible — The Final Reckoning at the international box office.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/mission-impossible-the-final-reckoning-overtakes-war-of-the-worlds-international-box-office-376-million/</link>
+            <picturepath>assets\2ccf4433-5ddd-4b5b-9e31-a9ed92a52f8a.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>41</id>
+            <title>It Looks Like the ‘Fast and Furious’ Franchise Has Lost Its Way</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Vin Diesel's announcements for Fast X: Part 2 might have had fans scratching their heads, and wondering if the franchise will crash and burn.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/fast-and-furious-has-lost-its-way/</link>
+            <picturepath>assets\987bbf2f-08dc-498e-8ee7-9c3733a8806c.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>42</id>
+            <title>'How to Train Your Dragon' Overtakes the Domestic Box Office of One of the Best War Movies Ever</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>How to Train Your Dragon overtakes the domestic box office of one of the best war movies ever.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/how-to-train-your-dragon-overtakes-pearl-harbor-domestic-box-office-200-million/</link>
+            <picturepath>assets\63523f40-6db6-4be0-9565-4400ba14d7d7.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>43</id>
+            <title>Movie</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>1923</releaseyear>
+            <description>Yellowstone star admits to one of the hardest parts of being in Taylor Sheridan's epic series.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/yellowstone-luke-grimes-saying-goodbye-hard/</link>
+            <picturepath>assets\91094192-18c6-48b3-a988-bdcc45394407.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>44</id>
+            <title>MCU Breakout Star, 36, Hailed Christopher Nolan’s $758 Million Oscar-Winner as One of This Century’s Best Films</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Christopher Nolan's $758 million Oscar-winner is hailed as one of this century's best by MCU breakout star.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/interstellar-best-movie-21st-century-simu-liu/</link>
+        </movie>
+        <movie>
+            <id>45</id>
+            <title>John Cena and Idris Elba’s High-Octane Comedy Divides Critics on Rotten Tomatoes</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Idris Elba and John Cena's new buddy comedy has gone rogue with critics as they split the score down the middle.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/heads-of-state-rotten-tomatoes-score-is-it-good/</link>
+            <picturepath>assets\12017d3d-f74e-403b-bace-4b34496c20a3.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>46</id>
+            <title>‘The Chosen’ Delivers Its Most Haunting Scene Yet: “It’s Not Something I Would Ever Want To Shoot Again"</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>The Chosen Season 6 delivers one of its most haunting scenes, and its star says he wouldn't want to shoot it again.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/the-chosen-season-6-jonathan-roumie-crucifixion/</link>
+            <picturepath>assets\f76066a4-9307-43d0-970f-44f7b6427274.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>47</id>
+            <title>‘Superman’ Star, 34, Reveals the Secret Behind Lois Lane’s "Punk Rock" Backstory [Exclusive]</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Superman's Rachel Brosnahan reveals new details about the backstory she and James Gunn have cooked up for Lois Lane. Read on for more.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/superman-rachel-brosnahan-lois-lane-backstory/</link>
+            <picturepath>assets\751362ac-1967-4778-babe-d5678f3de683.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>48</id>
+            <title>The Mitfords Look for a Reason to Smile in 'Outrageous' Episode 4 Sneak Peek Clip [Exclusive]</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>A sneak peek from Outrageous episode 4 sees The Mitfords discuss politics whilst a photographer tries to take a pleasant picture.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/outrageous-episode-4-sneak-peek-exclusive/</link>
+            <picturepath>assets\f3c4c05a-12f2-46f2-8844-482f6f547b6c.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>49</id>
+            <title>'Yellowstone' Star, 41, Admits to One of the Hardest Parts of Being in Taylor Sheridan's Epic Series</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Yellowstone star admits to one of the hardest parts of being in Taylor Sheridan's epic series.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/yellowstone-luke-grimes-saying-goodbye-hard/</link>
+            <picturepath>assets\925fdb1d-f953-4a55-b482-11490629dbdb.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>50</id>
+            <title>'Bosch' Spin-Off Creator Clarifies Titus Welliver's Role After 'Legacy' Cancellation</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Bosch spin-off creator Michael Connelly clarifies Titus Welliver's role in Ballard after Legacy's cancellation.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/bosch-ballard-titus-welliver-role-not-a-cameo-michael-connelly/</link>
+            <picturepath>assets\72228a8f-84d8-4439-b12b-2de336f7e73f.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>51</id>
+            <title>Tom Cruise Takes Down His Steven Spielberg Sci-Fi Epic At the International Box Office With ‘Mission: Impossible - The Final Reckoning’</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Tom Cruise takes down his own alien invasion movie with Mission: Impossible — The Final Reckoning at the international box office.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/mission-impossible-the-final-reckoning-overtakes-war-of-the-worlds-international-box-office-376-million/</link>
+            <picturepath>assets\f435b600-b693-4cc2-9e7b-053083f93043.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>52</id>
+            <title>It Looks Like the ‘Fast and Furious’ Franchise Has Lost Its Way</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Vin Diesel's announcements for Fast X: Part 2 might have had fans scratching their heads, and wondering if the franchise will crash and burn.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/fast-and-furious-has-lost-its-way/</link>
+            <picturepath>assets\29b9ed4b-3d26-4ee7-bf5e-cd57b180c40f.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>53</id>
+            <title>'How to Train Your Dragon' Overtakes the Domestic Box Office of One of the Best War Movies Ever</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>How to Train Your Dragon overtakes the domestic box office of one of the best war movies ever.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/how-to-train-your-dragon-overtakes-pearl-harbor-domestic-box-office-200-million/</link>
+            <picturepath>assets\90654003-2b26-49ad-a648-addca3124682.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>54</id>
+            <title>MCU Breakout Star, 36, Hailed Christopher Nolan’s $758 Million Oscar-Winner as One of This Century’s Best Films</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Christopher Nolan's $758 million Oscar-winner is hailed as one of this century's best by MCU breakout star.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/interstellar-best-movie-21st-century-simu-liu/</link>
+        </movie>
+        <movie>
+            <id>55</id>
+            <title>John Cena and Idris Elba’s High-Octane Comedy Divides Critics on Rotten Tomatoes</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Idris Elba and John Cena's new buddy comedy has gone rogue with critics as they split the score down the middle.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/heads-of-state-rotten-tomatoes-score-is-it-good/</link>
+            <picturepath>assets\d37d78f1-9b4d-41f9-b1b2-a795cd960d24.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>56</id>
+            <title>‘The Chosen’ Delivers Its Most Haunting Scene Yet: “It’s Not Something I Would Ever Want To Shoot Again"</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>The Chosen Season 6 delivers one of its most haunting scenes, and its star says he wouldn't want to shoot it again.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/the-chosen-season-6-jonathan-roumie-crucifixion/</link>
+            <picturepath>assets\3e0d4cde-f57a-46ef-8922-af208d6cb233.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>57</id>
+            <title>‘Superman’ Star, 34, Reveals the Secret Behind Lois Lane’s "Punk Rock" Backstory [Exclusive]</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Superman's Rachel Brosnahan reveals new details about the backstory she and James Gunn have cooked up for Lois Lane. Read on for more.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/superman-rachel-brosnahan-lois-lane-backstory/</link>
+            <picturepath>assets\b5411cf6-0e69-45e6-aab6-256b5842f205.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>58</id>
+            <title>The Mitfords Look for a Reason to Smile in 'Outrageous' Episode 4 Sneak Peek Clip [Exclusive]</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>A sneak peek from Outrageous episode 4 sees The Mitfords discuss politics whilst a photographer tries to take a pleasant picture.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/outrageous-episode-4-sneak-peek-exclusive/</link>
+            <picturepath>assets\0be22025-e9c5-4a99-8911-e13be55286b2.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>59</id>
+            <title>'Yellowstone' Star, 41, Admits to One of the Hardest Parts of Being in Taylor Sheridan's Epic Series</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Yellowstone star admits to one of the hardest parts of being in Taylor Sheridan's epic series.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/yellowstone-luke-grimes-saying-goodbye-hard/</link>
+            <picturepath>assets\10539577-1dea-4b6d-85cb-72cdc33bf230.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>60</id>
+            <title>'Bosch' Spin-Off Creator Clarifies Titus Welliver's Role After 'Legacy' Cancellation</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Bosch spin-off creator Michael Connelly clarifies Titus Welliver's role in Ballard after Legacy's cancellation.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/bosch-ballard-titus-welliver-role-not-a-cameo-michael-connelly/</link>
+            <picturepath>assets\a28d3bff-5a29-420e-ba75-527d1d2985ef.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>61</id>
+            <title>Tom Cruise Takes Down His Steven Spielberg Sci-Fi Epic At the International Box Office With ‘Mission: Impossible - The Final Reckoning’</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Tom Cruise takes down his own alien invasion movie with Mission: Impossible — The Final Reckoning at the international box office.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/mission-impossible-the-final-reckoning-overtakes-war-of-the-worlds-international-box-office-376-million/</link>
+            <picturepath>assets\01c78544-013c-4dd5-9382-73d4ac0c303d.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>62</id>
+            <title>It Looks Like the ‘Fast and Furious’ Franchise Has Lost Its Way</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>Vin Diesel's announcements for Fast X: Part 2 might have had fans scratching their heads, and wondering if the franchise will crash and burn.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/fast-and-furious-has-lost-its-way/</link>
+            <picturepath>assets\f39453b5-98b4-46a2-acd3-0c07c89261de.jpg</picturepath>
+        </movie>
+        <movie>
+            <id>63</id>
+            <title>'How to Train Your Dragon' Overtakes the Domestic Box Office of One of the Best War Movies Ever</title>
+            <genre>
+                <id>1</id>
+            </genre>
+            <releaseyear>2025</releaseyear>
+            <description>How to Train Your Dragon overtakes the domestic box office of one of the best war movies ever.</description>
+            <director>
+                <id>1</id>
+            </director>
+            <actors/>
+            <link>https://collider.com/how-to-train-your-dragon-overtakes-pearl-harbor-domestic-box-office-200-million/</link>
+            <picturepath>assets\93907fe9-0069-4f1b-a2ca-32b7ec8828f1.jpg</picturepath>
+        </movie>
+    </movies>
+</movieArchive>
